@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Hanaa-ju/Hanaa-ju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hanaa! 👋
 
-Here are some ideas to get you started:
+### IT Support | Computer Networks | Junior Front-End Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in Information Technology, Computer Networks, Technical Support, and Web Development.
+
+🎓 **Education**
+- Diploma in Computer Networks
+
+💻 **Technical Skills**
+- HTML, CSS, JavaScript
+- Computer Networking
+- CCNA Fundamentals
+- Technical Support
+- LMS and E-Learning Platforms
+- Troubleshooting
+
+🌐 **Networking**
+- TCP/IP
+- Routing and Switching
+- Network Troubleshooting
+- IPsec VPN Fundamentals
+
+🚀 **Projects**
+- [To-Do List App](https://hanaa-ju.github.io/-todo-list-app/)
+
+📚 **Currently Learning**
+- JavaScript
+- Front-End Development
+- Git and GitHub
+
+📫 **Let's Connect!**
+- GitHub: https://github.com/Hanaa-ju
